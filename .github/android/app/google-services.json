@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646930110472",
+    "project_id": "i-just-care-noti",
+    "storage_bucket": "i-just-care-noti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646930110472:android:e85954a2318e87f84119bd",
+        "android_client_info": {
+          "package_name": "com.example.app_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9AiA-jX91Jd6K49E9LCR958OfOfUZkvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
